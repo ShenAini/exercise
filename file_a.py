@@ -6,3 +6,4 @@ print(fabulous)
 
 main v1
 
+x = 100
